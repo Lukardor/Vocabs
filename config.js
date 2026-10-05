@@ -1,0 +1,1 @@
+window.LUKARDOR_CONFIG={"url":"https://bffanxtacsjemqeoauyx.supabase.co","key":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJmZmFueHRhY3NqZW1xZW9hdXl4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTEwOTM4NTIsImV4cCI6MjEwNjY2OTg1Mn0.iNBht0p3ExMfEdgYplotfZ-AOj1l1M9donl39xoD3-E"};
